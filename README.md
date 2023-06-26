@@ -35,3 +35,19 @@ This is the [Github](http://github.com)
 
  # images
  ![Dog image](git-add3/images-dogs.jpg)
+
+ # image
+ ![dogs](https://www.istockphoto.com/photo/a-cat-and-a-dog-lie-together-on-the-bed-pets-sleeping-on-a-cozy-gray-plaid-the-care-gm1385113345-444056757?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fpuppy-dog&utm_term=puppy+dog%3A%3A%3A)
+
+ # List
+ * Apple
+ * Mango
+ * Banana
+
+ 1. Red
+ 2. Green
+ 3. Yellow
+
+ 1. List Order
+    * sublist   
+      *sublisted
