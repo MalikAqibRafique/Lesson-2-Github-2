@@ -29,3 +29,6 @@ echo phpifno();
 # Links
 This is the [Google](http://google.com)
 This is the [Github](http://github.com)
+ 
+ # image
+ ![This is dog image](C:\my-first-project-github-add\github-project\git-add3\images-dogs.jpg)
