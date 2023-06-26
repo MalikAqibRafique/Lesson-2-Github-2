@@ -25,3 +25,7 @@ This is inline `command` single line.
 echo phpifno();
 ?>
 ```
+
+# Links
+This is the [Google](http://google.com)
+This is the [Github](http://github.com)
