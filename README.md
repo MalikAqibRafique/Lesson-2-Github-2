@@ -17,3 +17,11 @@
 # QUote Example
 This is SImple Data
 > This is quote data
+
+# This is quote code.
+This is inline `command` single line.
+```
+<?php
+echo phpifno();
+?>
+```
