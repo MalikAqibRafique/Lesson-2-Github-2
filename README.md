@@ -32,3 +32,6 @@ This is the [Github](http://github.com)
  
  # image
  ![This is dog image](C:\my-first-project-github-add\github-project\git-add3\images-dogs.jpg)
+
+ # images
+ ![Dog image](git-add3/images-dogs.jpg)
