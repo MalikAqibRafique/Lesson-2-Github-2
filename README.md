@@ -1,0 +1,2 @@
+# The Cooper Union Summer Writing Program prepares you for college by giving you the writing and thinking tools you need. This three-week course is designed for students graduating from high school in 2023 or 2024.
+## Participants who complete all assigned work and attend all sessions earn a non-credit bearing Certificate of Completion
